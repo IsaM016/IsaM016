@@ -1,4 +1,10 @@
-## Hola soy Isa 👋
+<p align="center">
+  <img src="assets/gradient-divider.svg" alt="Gradient divider" style="width:100%; height:3px;" />
+</p>
+
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Lobster+Two&size=30&duration=6000&pause=1000&color=D0A3CF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Isa+Mendoza+%E2%99%A1+;Ideas+into+code+%E2%99%A1" alt="Typing SVG" /></a>
+</div>
 
 <!--
 **IsaM016/IsaM016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
