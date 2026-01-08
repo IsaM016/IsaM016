@@ -28,7 +28,7 @@
 
 🫧I'm always willing to learn new things, and I like to add a creative touch to everything.
 
-    </td>
+   
   </tr>
 </table>
 
